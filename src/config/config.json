@@ -1,0 +1,19 @@
+{
+  "development": {
+    "username": "sameer",
+    "password": "oreo",
+    "database": "yard_merchant",
+    "host": "localhost",
+    "dialect": "mysql",
+    "operatorsAliases": {
+      "$and": "Op.and",
+      "$or": "Op.or",
+      "$eq": "Op.eq",
+      "$gt": "Op.gt",
+      "$lt": "Op.lt",
+      "$lte": "Op.lte",
+      "$like": "Op.like"
+    },
+    "secret": "BtmyoObuo4lJawtA9sSTLziLS0ceiHCQ"
+  }
+}
